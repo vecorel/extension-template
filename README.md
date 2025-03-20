@@ -1,13 +1,13 @@
 # Template Extension Specification
 
 - **Title:** Template
-- **Identifier:** <https://fiboa.github.io/extension-template/v0.1.0/schema.yaml>
+- **Identifier:** <https://vecorel.github.io/extension-template/v0.1.0/schema.yaml>
 - **Property Name Prefix:** template
 - **Extension Maturity Classification:** Proposal/Candidate/Stable
 - **Owner**: @your-gh-handles @person2
 
 This document explains the Template Extension to the
-[Field Boundaries for Agriculture (fiboa) Specification](https://github.com/fiboa/specification).
+[Vecorel Specification](https://github.com/vecorel/specification).
 
 This is the place to add a short introduction.
 
@@ -19,7 +19,7 @@ This is the place to add a short introduction.
 
 ## Properties
 
-The properties in the table below can be used in these parts of fiboa documents:
+The properties in the table below can be used in these parts of Vecorel documents:
 
 - [ ] Collection
 - [x] Feature Properties

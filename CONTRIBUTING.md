@@ -1,9 +1,9 @@
 # Contributing
 
 All contributions are subject to the
-[fiboa Code of Conduct](https://github.com/fiboa/specification/blob/main/CODE_OF_CONDUCT.md).
+[Vecorel Code of Conduct](https://github.com/vecorel/specification/blob/main/CODE_OF_CONDUCT.md).
 For contributions, please follow the
-[fiboa contributing guideline](https://github.com/fiboa/specification/blob/main/CONTRIBUTING.md).
+[Vecorel contributing guideline](https://github.com/vecorel/specification/blob/main/CONTRIBUTING.md).
 
 ## Running tests
 
@@ -16,7 +16,7 @@ Start with the following command in the folder where this README is located:
 Finally, you can run the tests as follows:
 
 - To check the markdown run: `pipenv run test-docs`
-- To check the fiboa schema run: `pipenv run test-schema`
+- To check the Vecorel schema run: `pipenv run test-schema`
 - To check the examples run:
   - `pipenv run test-geojson` for GeoJSON
   - `pipenv run test-geoparquet` for GeoParquet

@@ -31,5 +31,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - First release
 
-[Unreleased]: <https://github.com/fiboa/extension-template/compare/v0.1.0...main>
-[v0.1.0]: <https://github.com/fiboa/extension-template/tree/v0.1.0>
+[Unreleased]: <https://github.com/vecorel/extension-template/compare/v0.1.0...main>
+[v0.1.0]: <https://github.com/vecorel/extension-template/tree/v0.1.0>
