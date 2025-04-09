@@ -1,4 +1,8 @@
 {
+  "schemas": [
+    "https://vecorel.github.io/specification/v0.1.0/schema.yaml",
+    "https://vecorel.github.io/template-extension/v0.1.0/schema.yaml"
+  ],
   "type": "Feature",
   "id": "example",
   "bbox": [
@@ -35,7 +39,6 @@
     ]
   },
   "properties": {
-    "determination_datetime": "2020-01-01T00:00:00Z",
     "template:field1": 1,
     "template:field2": "abc"
   },
