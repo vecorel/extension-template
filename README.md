@@ -7,7 +7,7 @@
 - **Owner**: @your-gh-handles @person2
 
 This document explains the Template Extension to the
-[Vecorel Specification](https://github.com/vecorel/specification).
+[Vecorel specification](https://github.com/vecorel/specification).
 
 This is the place to add a short introduction.
 
@@ -18,11 +18,6 @@ This is the place to add a short introduction.
 - [Changelog](./CHANGELOG.md)
 
 ## Properties
-
-The properties in the table below can be used in these parts of Vecorel documents:
-
-- [ ] Collection
-- [x] Feature Properties
 
 | Property Name   | Type   | Description |
 | --------------- | ------ | ----------- |
