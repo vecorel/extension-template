@@ -16,5 +16,4 @@ jobs:
           pipenv install
       - run: pipenv run test-docs
       - run: pipenv run test-schema
-      - run: pipenv run test-geojson
-      - run: pipenv run test-geoparquet
+      - run: pipenv run test-examples
