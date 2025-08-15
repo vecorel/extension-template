@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-vecorel-cli = ">=0.1"
+vecorel-cli = ">=0.2"
 pymarkdownlnt = ">=0.9"
 
 [scripts]
 test-docs = "pymarkdown -d md024,md013 scan ."
 test-schema = "vec validate-schema schema/schema.yaml"
-test-examples = "vec validate examples/geojson examples/geoparquet -s https://vecorel.github.io/extension-template/v0.1.0/schema.yaml,schema/schema.yaml -n -1"
-create-geoparquet = "vec create-geoparquet examples/geojson -o examples/geoparquet/example.parquet -s https://vecorel.github.io/extension-template/v0.1.0/schema.yaml,schema/schema.yaml"
+test-examples = "vec validate examples/geojson examples/geoparquet -s https://vecorel.org/extension-template/v0.1.0/schema.yaml,schema/schema.yaml -n -1"
+create-geoparquet = "vec create-geoparquet examples/geojson -o examples/geoparquet/example.parquet -s https://vecorel.org/extension-template/v0.1.0/schema.yaml,schema/schema.yaml"
