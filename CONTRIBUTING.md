@@ -1,9 +1,7 @@
 # Contributing
 
 All contributions are subject to the
-[Vecorel Code of Conduct](https://github.com/vecorel/specification/blob/main/CODE_OF_CONDUCT.md).
-For contributions, please follow the
-[Vecorel contributing guideline](https://github.com/vecorel/specification/blob/main/CONTRIBUTING.md).
+[Vecorel Code of Conduct](https://vecorel.org/code-of-conduct/).
 
 ## Running tests
 
